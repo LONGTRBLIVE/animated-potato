@@ -1,2 +1,2 @@
 # animated-potato
-模仿简历
+玩了一下午
